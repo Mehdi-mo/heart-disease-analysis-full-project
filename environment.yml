@@ -1,0 +1,11 @@
+name: E:\machine learning projects\heart_disease_project_2\env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - seaborn
+prefix: E:\machine learning projects\heart_disease_project_2\env
